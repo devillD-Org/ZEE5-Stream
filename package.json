@@ -5,9 +5,9 @@
     "main": "index.js",
     "root": "public",
     "error_page": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/avipatilpro/ZEE5.git"
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"node index.js"
     },
     "keywords": [
         "zee5",
